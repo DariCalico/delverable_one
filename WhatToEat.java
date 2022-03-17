@@ -57,7 +57,6 @@ public class WhatToEat {
 				System.out.println("digits");}
 			
 	
-		
 		}
 	}
 
